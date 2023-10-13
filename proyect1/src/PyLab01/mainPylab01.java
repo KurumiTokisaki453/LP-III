@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Principal {
+public class mainPylab01 {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
         int vida, rp;

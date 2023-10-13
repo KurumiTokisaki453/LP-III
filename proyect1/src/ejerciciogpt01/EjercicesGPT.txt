@@ -1,0 +1,24 @@
+
+2. Interfaces en Java:
+
+Define una interfaz Forma con métodos para calcular el área y el perímetro. Luego, crea clases como Círculo y Rectángulo que implementen esta interfaz y proporcionen implementaciones específicas para calcular el área y el perímetro. Calcula y muestra el área y el perímetro de diferentes formas.
+
+3. Instancia de clases y métodos:
+
+Crea una clase Estudiante con atributos como nombre, edad y número de estudiante. Agrega un método para mostrar los detalles del estudiante. Crea una instancia de esta clase y muestra los detalles del estudiante.
+
+4. Paquetes y estructura de proyecto:
+
+Crea un proyecto Java con múltiples clases en diferentes paquetes. Cada clase debería tener una funcionalidad específica. Luego, crea una clase Main en un paquete principal que utilice las clases de otros paquetes para realizar alguna tarea.
+
+5. Métodos y atributos de clases:
+
+Crea una clase Libro con atributos como título, autor y año de publicación. Agrega métodos para establecer y obtener estos atributos. Luego, crea una lista de libros y muestra la información de cada libro.
+
+6. Métodos y encapsulamiento:
+
+Define una clase Banco con atributos como saldo y métodos para depositar y retirar dinero. Asegúrate de que el saldo no pueda ser negativo. Realiza algunas operaciones de depósito y retiro para demostrar el funcionamiento de la clase.
+
+7. Manejo de excepciones:
+
+Crea un programa que solicite al usuario ingresar un número y maneja la excepción si el usuario ingresa un valor no numérico. Muestra un mensaje de error en caso de que ocurra la excepción.
