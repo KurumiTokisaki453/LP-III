@@ -24,3 +24,10 @@ public class InterfazPorPagar {
     
   }
 }
+
+// Declarar clase Prestamo que implemente la interfaz PorPagar.
+// 'Prestamo' tendrá atributos 'numeroDeCuotas' y 'montoDeCuota'.
+// Con su constructor respectivo, get, set, toString.
+// return de método 'obtenerMontoPago' de Prestamo
+//   dado por producto 'numeroDeCuotas' y 'montoDeCuota'.
+// Modificar principal, para que incluya objeto Prestamo.
