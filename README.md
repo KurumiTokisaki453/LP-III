@@ -6,22 +6,32 @@ Welcome to the VS Code Java world. Here is a guideline to help you get started t
 
 Código para agregar contenido:
 -git add .
+
 -git commit -m "Incluir comentario"
+
 -git pull origin rama-principal
+
 -git push
+
 
 Código para crear ramas:
 -git branch rama-personal
 
+
 Código para cambiar de ramas: 
 -git checkout rama-personal
+
 
 Código para actualizar mi rama con la principal:
 -git pull origin rama-principal
 
+
 Código para fusionar ramas (personal->principal):
 -git checkout rama-principal
+
 -git merge rama-personal
+
 -git push
+
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
